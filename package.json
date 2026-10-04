@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-checkpoint",
+  "version": "1.0.0",
+  "private": true,
+  "main": "myApp.js",
+  "scripts": {
+    "start": "node myApp.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongodb": "^3.7.4",
+    "mongoose": "^5.13.22"
+  }
+}
